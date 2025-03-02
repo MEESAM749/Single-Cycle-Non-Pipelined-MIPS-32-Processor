@@ -1,12 +1,6 @@
 # Single-Cycle-Non-Pipelined-MIPS-32-Processor
 
-This is a simulation of the MIPS32 Single Cycle Processor written in Verilog and run on Xilinx Design Suit ISE 14.5.
-This design doesnot include an FPU.
+This is a single cycle MIPS 32bit processor simulated in verilog running on Xilinx Design Suit ISE 14.5.
+This does not include an FPU.
 
-Architecture Schematic:
-![full_datapatH](https://github.com/user-attachments/assets/bd21b27a-c1ef-4ad1-ab9b-923ed88094c0)
-
-<img width="960" alt="Simulation" src="https://github.com/user-attachments/assets/b0b9576a-b1f1-476c-832f-9d7b4eac78cb" />
-You have to add the signals from uut to the wavewindow manually.
-The RTL is given below:
-![RTL](https://github.com/user-attachments/assets/2134bc9c-9917-4063-bbaf-8e41fe264bef)
+Basic R-Type, I-Type and J-Type instructions run in this simulation.
