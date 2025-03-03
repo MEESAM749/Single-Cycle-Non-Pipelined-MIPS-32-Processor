@@ -1,0 +1,53 @@
+Running: D:\XILINX\14.5\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/XilinkProjects/MIPS - Copy (2)/TopModule_tb_isim_beh.exe -prj D:/XilinkProjects/MIPS - Copy (2)/TopModule_tb_beh.prj work.TopModule_tb work.glbl 
+ISim P.58f (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/TheImplicitMux.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/Sign_Extender.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/Register_File.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/ProgramCounter.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/Pc_Adder.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/MuxNo4.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/MuxNo3.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/MuxNo2.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/MuxNo1.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/Left_ShifterBy2.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/InstructionMemory.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/Data_Memory.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/Control_Unit.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/Branch.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/ALUControl.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/ALU.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/Adder2.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/TopModule.v" into library work
+Analyzing Verilog file "D:/XilinkProjects/MIPS - Copy (2)/TB_TESTBENCH.v" into library work
+Analyzing Verilog file "D:/XILINX/14.5/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module ProgramCounter
+Compiling module InstructionMemory
+Compiling module Adder1
+Compiling module Register_File
+Compiling module Sign_Extender
+Compiling module Control_Unit
+Compiling module Left_ShifterBy2
+Compiling module MuxNo2
+Compiling module ALU
+Compiling module TheImplicitMux
+Compiling module ALUControl
+Compiling module Adder2
+Compiling module Branch
+Compiling module Data_Memory
+Compiling module MuxNo1
+Compiling module MuxNo3
+Compiling module MuxNo4
+Compiling module TopModule
+Compiling module TopModule_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 20 Verilog Units
+Built simulation executable D:/XilinkProjects/MIPS - Copy (2)/TopModule_tb_isim_beh.exe
+Fuse Memory Usage: 30104 KB
+Fuse CPU Usage: 484 ms

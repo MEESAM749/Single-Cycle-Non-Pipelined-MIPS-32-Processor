@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/XilinkProjects/ProgramCounter.xst" -ofn "D:/XilinkProjects/ProgramCounter.syr" 

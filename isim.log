@@ -1,0 +1,160 @@
+ISim log file
+Running: D:\XilinkProjects\MIPS - Copy (2)\TopModule_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/XilinkProjects/MIPS - Copy (2)/TopModule_tb_isim_beh.wdb 
+ISim P.58f (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to 'D:\xilinx_ise.lic'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Time:                    0, PC: 00000000, Instruction: 2008000a, ALU Result: 0000000a, Out: 0000000a, RegDst:  8
+Time:                15000, PC: 0000002c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                25000, PC: 00000030, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                35000, PC: 00000034, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                45000, PC: 00000038, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                55000, PC: 0000003c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                65000, PC: 00000040, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                75000, PC: 00000044, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                85000, PC: 00000048, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                95000, PC: 0000004c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               105000, PC: 00000050, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               115000, PC: 00000054, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               125000, PC: 00000058, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               135000, PC: 0000005c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               145000, PC: 00000060, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               155000, PC: 00000064, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               165000, PC: 00000068, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               175000, PC: 0000006c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               185000, PC: 00000070, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               195000, PC: 00000074, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               205000, PC: 00000078, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               215000, PC: 0000007c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               225000, PC: 00000080, Instruction: 2008000a, ALU Result: 0000000a, Out: 0000000a, RegDst:  8
+Time:               235000, PC: 000000ac, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               245000, PC: 000000b0, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               255000, PC: 000000b4, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               265000, PC: 000000b8, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               275000, PC: 000000bc, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               285000, PC: 000000c0, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               295000, PC: 000000c4, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               305000, PC: 000000c8, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               315000, PC: 000000cc, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               325000, PC: 000000d0, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               335000, PC: 000000d4, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               345000, PC: 000000d8, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               355000, PC: 000000dc, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               365000, PC: 000000e0, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               375000, PC: 000000e4, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               385000, PC: 000000e8, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               395000, PC: 000000ec, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               405000, PC: 000000f0, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               415000, PC: 000000f4, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               425000, PC: 000000f8, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               435000, PC: 000000fc, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               445000, PC: 00000100, Instruction: 2008000a, ALU Result: 0000000a, Out: 0000000a, RegDst:  8
+Time:               455000, PC: 0000012c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               465000, PC: 00000130, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               475000, PC: 00000134, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               485000, PC: 00000138, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               495000, PC: 0000013c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               505000, PC: 00000140, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+============ Register File Contents ============
+$t0 (R8):  0000000a
+$t1 (R9):  00000000
+$t2 (R10): 00000000
+$t3 (R11): 00000000
+$t4 (R12): 00000000
+$t5 (R13): 00000000
+$t6 (R14): 00000000
+$t7 (R15): 00000000
+============ Data Memory Contents ============
+Mem[4]: 00000000
+Mem[8]: 00000000
+============ Simulation Results ============
+Final output: 00000000
+Register destination:  0
+Stopped at time : 515 ns : File "D:/XilinkProjects/MIPS - Copy (2)/TB_TESTBENCH.v" Line 59
+# restart
+# run 1.00us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Time:                    0, PC: 00000000, Instruction: 2008000a, ALU Result: 0000000a, Out: 0000000a, RegDst:  8
+Time:                15000, PC: 0000002c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                25000, PC: 00000030, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                35000, PC: 00000034, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                45000, PC: 00000038, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                55000, PC: 0000003c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                65000, PC: 00000040, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                75000, PC: 00000044, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                85000, PC: 00000048, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:                95000, PC: 0000004c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               105000, PC: 00000050, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               115000, PC: 00000054, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               125000, PC: 00000058, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               135000, PC: 0000005c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               145000, PC: 00000060, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               155000, PC: 00000064, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               165000, PC: 00000068, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               175000, PC: 0000006c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               185000, PC: 00000070, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               195000, PC: 00000074, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               205000, PC: 00000078, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               215000, PC: 0000007c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               225000, PC: 00000080, Instruction: 2008000a, ALU Result: 0000000a, Out: 0000000a, RegDst:  8
+Time:               235000, PC: 000000ac, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               245000, PC: 000000b0, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               255000, PC: 000000b4, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               265000, PC: 000000b8, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               275000, PC: 000000bc, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               285000, PC: 000000c0, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               295000, PC: 000000c4, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               305000, PC: 000000c8, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               315000, PC: 000000cc, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               325000, PC: 000000d0, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               335000, PC: 000000d4, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               345000, PC: 000000d8, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               355000, PC: 000000dc, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               365000, PC: 000000e0, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               375000, PC: 000000e4, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               385000, PC: 000000e8, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               395000, PC: 000000ec, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               405000, PC: 000000f0, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               415000, PC: 000000f4, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               425000, PC: 000000f8, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               435000, PC: 000000fc, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               445000, PC: 00000100, Instruction: 2008000a, ALU Result: 0000000a, Out: 0000000a, RegDst:  8
+Time:               455000, PC: 0000012c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               465000, PC: 00000130, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               475000, PC: 00000134, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               485000, PC: 00000138, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               495000, PC: 0000013c, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+Time:               505000, PC: 00000140, Instruction: 00000000, ALU Result: 00000000, Out: 00000000, RegDst:  0
+============ Register File Contents ============
+$t0 (R8):  0000000a
+$t1 (R9):  00000000
+$t2 (R10): 00000000
+$t3 (R11): 00000000
+$t4 (R12): 00000000
+$t5 (R13): 00000000
+$t6 (R14): 00000000
+$t7 (R15): 00000000
+============ Data Memory Contents ============
+Mem[4]: 00000000
+Mem[8]: 00000000
+============ Simulation Results ============
+Final output: 00000000
+Register destination:  0
+Stopped at time : 515 ns : File "D:/XilinkProjects/MIPS - Copy (2)/TB_TESTBENCH.v" Line 59
