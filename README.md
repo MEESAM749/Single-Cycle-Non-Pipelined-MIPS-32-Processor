@@ -7,6 +7,6 @@ The processor schematic diagram is shown below:
 
 This is a semester project at NUST College of EME. The instruction memory is loaded with a few basic instructions.
 
-#Licence
+# Licence
 
 This project falls under the MIT License.
