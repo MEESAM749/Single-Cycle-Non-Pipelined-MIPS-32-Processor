@@ -6,7 +6,8 @@ The schematic of the processor from which this was made is given below:
 
 ![full_datapatH](https://github.com/user-attachments/assets/267430bc-0940-4d7b-b2cc-725d7b805593)  
 
-<img width="960" alt="Simulation" src="https://github.com/user-attachments/assets/6824ab03-6cc7-48ff-9b99-a50f55bc863f" />  
+![RTL](https://github.com/user-attachments/assets/ab5a4eb9-8e06-415c-bc56-b648f8b5748a)  
+
 
 
 <img width="960" alt="Simulation" src="https://github.com/user-attachments/assets/6cffd7fc-7b89-4ea8-9cc9-d7b88a688470" />  
