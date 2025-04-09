@@ -6,11 +6,12 @@ The schematic of the processor from which this was made is given below:
 
 ![full_datapatH](https://github.com/user-attachments/assets/267430bc-0940-4d7b-b2cc-725d7b805593)  
 
-![RTL](https://github.com/user-attachments/assets/ab5a4eb9-8e06-415c-bc56-b648f8b5748a)  
 
+![asdf](https://github.com/user-attachments/assets/b2c9baf0-59eb-489d-8375-b4b449c86f50)  
 
 
 <img width="960" alt="Simulation" src="https://github.com/user-attachments/assets/6cffd7fc-7b89-4ea8-9cc9-d7b88a688470" />  
+
 
 
 
